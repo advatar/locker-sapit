@@ -1,0 +1,26 @@
+{
+  "author": "Advatar <johan@sellstrom.me>",
+  "name": "sapit",
+  "description": "Allow me to inspect and edit my SAP information",
+  "version": "0.0.1",
+  "repository": {
+    "title": "sapit",
+    "handle": "locker-sapit",
+    "author": "advatar",
+    "update": "auto",
+    "status":"unstable",
+    "github": "https://github.com/advatar/locker-sapit",
+    "url": "https://github.com/advatar/locker-sapit",
+    "type": "connector",
+    "static": "false",
+    "oauthSize": {
+      "width": 1000,
+      "height": 1000
+    }
+  },
+  "engines": {
+    "node": ">=0.4.9"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

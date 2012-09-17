@@ -1,4 +1,4 @@
-locker-sapit
-============
+recruit
+=======
 
-Let me edit my SAP data
+Connector for our fake Recruit CV system
